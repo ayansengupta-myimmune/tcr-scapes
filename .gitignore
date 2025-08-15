@@ -6,7 +6,6 @@ venv/**
 data/combined_deduplicated_clean_ags.csv
 data/mira.csv
 conga/**
-results/**
 results_publication/**
 results_publication2/**
 results_publication2/**/**
